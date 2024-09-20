@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CMitch213
-- 👀 I’m interested in doing shit, and procrastinating.
-- 🌱 I’m currently learning social skillss.
-- 💞️ I’m looking to collaborate on grass touching. (im bad at it)
+- 👀 I’m interested in procrastinating and doing shit
 - 📫 How to reach me, Discord @CMitch
 
 <!---
